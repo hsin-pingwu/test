@@ -1,15 +1,1 @@
-[1mdiff --git a/second_file.txt b/second_file.txt[m
-[1mindex fe4c0b4..e69de29 100644[m
-[1m--- a/second_file.txt[m
-[1m+++ b/second_file.txt[m
-[36m@@ -1 +0,0 @@[m
-[31m-AKAM[m
-[1mdiff --git a/test.txt b/test.txt[m
-[1mindex 4f29366..429b530 100644[m
-[1m--- a/test.txt[m
-[1m+++ b/test.txt[m
-[36m@@ -1,2 +1 @@[m
- add one line[m
-[31m-WTF[m
-a change made here on main branch
-we add something to this.
+rewrite
